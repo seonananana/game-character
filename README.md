@@ -100,7 +100,7 @@ src/main/kotlin/com/example/game/
 
 ## 5) 클래스 간 관계(다이어그램)
 
-> GitHub는 Mermaid를 지원합니다. README에서 바로 시각화됩니다.
+
 
 ```mermaid
 classDiagram
@@ -250,30 +250,3 @@ override fun board(unit: UnitBase): Boolean {
 
 ---
 
-## Markdown(마크다운) 한눈 요약
-
-마크다운은 **간단한 기호로 문서 서식을 표현**하는 경량 포맷입니다.  
-GitHub/Notion/Slack 등에서 자동 렌더링되며, README/위키/메모에 적합합니다.
-
-### 치트시트
-```md
-# 제목1
-## 제목2
-**굵게** / *기울임* / ~~취소선~~
-- 불릿
-1. 번호
-[링크](https://example.com)
-`인라인 코드`
-\`\`\`언어
-여러 줄 코드블록
-\`\`\`
-> 인용문
-|헤더|헤더|
-|---|---|
-|셀|셀|
-```
-
----
-
-## License
-MIT (선택)
