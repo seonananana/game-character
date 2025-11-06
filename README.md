@@ -6,6 +6,8 @@
 ```bash
 ./gradlew run        # (Gradle Wrapper가 있을 경우)
 # 또는
+./gradlew test
+# 로컬
 gradle run           # 로컬에 gradle 설치 시
 ```
 
